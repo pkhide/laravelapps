@@ -1,5 +1,7 @@
-https://laravel.com/docs/5.7
+Documents -> https://laravel.com/docs/5.7
 
-
+CMD
 install laravel composer -> composer global require laravel/installer
-laravel new blog
+install laravel project -> composer create-project --prefer-dist laravel/laravel blog
+
+* blog can be change to your project name 
