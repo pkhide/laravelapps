@@ -3,5 +3,10 @@ Documents -> https://laravel.com/docs/5.7
 CMD
 install laravel composer -> composer global require laravel/installer
 install laravel project -> composer create-project --prefer-dist laravel/laravel blog
-
 * blog can be change to your project name 
+
+Config Database
+file name ".env" for VSCode download extension to manage .env file and reload
+config in line 9-14 for connection
+more info -> https://www.youtube.com/watch?v=dVRL-qH-DX4
+
